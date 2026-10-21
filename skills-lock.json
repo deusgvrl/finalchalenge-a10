@@ -7,6 +7,12 @@
       "skillPath": "ios-accessibility/SKILL.md",
       "computedHash": "d945096b4cf7e46d28b4cdadb6d6b96c6ebf36311212977519d48d3e98e99b35"
     },
+    "swift-testing-pro": {
+      "source": "twostraws/swift-testing-agent-skill",
+      "sourceType": "github",
+      "skillPath": "swift-testing-pro/SKILL.md",
+      "computedHash": "576d9b4705c76262095e2470e99bb9a89324ac4467e7ee54b7032697a8789b3d"
+    },
     "swiftdata-pro": {
       "source": "twostraws/swiftdata-agent-skill",
       "sourceType": "github",
