@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "coreml": {
+      "source": "dpearson2699/swift-ios-skills",
+      "sourceType": "github",
+      "skillPath": "skills/coreml/SKILL.md",
+      "computedHash": "16669e559ce36fe55a40c1cf5504d95c9d054c08ae1e579032896f3566bde0f4"
+    },
     "ios-accessibility": {
       "source": "dadederk/iOS-Accessibility-Agent-Skill",
       "sourceType": "github",
