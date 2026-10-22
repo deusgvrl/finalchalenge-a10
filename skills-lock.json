@@ -30,6 +30,12 @@
       "sourceType": "github",
       "skillPath": "swiftui-pro/SKILL.md",
       "computedHash": "d3b7c296d4855a284e999351493d702e7f8393fb89236c67b5586ec94e53dda7"
+    },
+    "vision-framework": {
+      "source": "dpearson2699/swift-ios-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vision-framework/SKILL.md",
+      "computedHash": "3a3dfb5bcd5870c9f3dd76959001dddc78a326ffbc0147abcbe7a26c883eadc9"
     }
   }
 }
